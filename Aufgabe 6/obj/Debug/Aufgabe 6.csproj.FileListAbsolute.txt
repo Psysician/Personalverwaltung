@@ -1,0 +1,68 @@
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Aufgabe 6.exe.config
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Aufgabe 6.exe
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Aufgabe 6.pdb
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.AssemblyReference.cache
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe_6.Form1.resources
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe_6.Properties.Resources.resources
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.GenerateResource.cache
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.CoreCompileInputs.cache
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.exe
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.pdb
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Text.Json.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.ValueTuple.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Buffers.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.exe.config
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.CopyComplete
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Memory.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frankmax\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.AssemblyReference.cache
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.exe.config
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe_6.Form1.resources
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe_6.Properties.Resources.resources
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.GenerateResource.cache
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.CoreCompileInputs.cache
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.exe
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.pdb
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Aufgabe 6.exe.config
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Aufgabe 6.exe
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Aufgabe 6.pdb
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Buffers.dll
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.ValueTuple.dll
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franky\source\repos\Aufgabe 6\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.CopyComplete
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\Aufgabe 6.exe.config
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\Aufgabe 6.exe
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\Aufgabe 6.pdb
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\System.Memory.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\System.Text.Json.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\System.Buffers.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\System.ValueTuple.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.AssemblyReference.cache
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe 6.exe.config
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe_6.Form1.resources
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe_6.Properties.Resources.resources
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.GenerateResource.cache
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.CoreCompileInputs.cache
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe 6.csproj.CopyComplete
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe 6.exe
+C:\Users\Franky\Desktop\Aufgabe 6_\Aufgabe 6\obj\Debug\Aufgabe 6.pdb
